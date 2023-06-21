@@ -29,11 +29,11 @@ export const ListItem = styled.li`
   height: 50px;
   padding-top: 5px;
   :nth-of-type(1) {
-    background-color: #ff0000ab;
+    background-color: #800080bd;
   }
 
   :nth-of-type(2) {
-    background-color: #0000ffa1;
+    background-color: #ffa500ad;
   }
 
   :nth-of-type(3) {
@@ -41,11 +41,11 @@ export const ListItem = styled.li`
   }
 
   :nth-of-type(4) {
-    background-color: #ffa500ad;
+    background-color: #0000ffa1;
   }
 
   :nth-of-type(5) {
-    background-color: #800080bd;
+    background-color: #ff0000ab;
   }
 `;
 
